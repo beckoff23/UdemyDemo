@@ -3,7 +3,7 @@ import "./Components/navbar.css";
 
 function App() {
     return (
-        <h1>Nima gap</h1>
+        <h1>Nima gapla</h1>
     );
 }
 
